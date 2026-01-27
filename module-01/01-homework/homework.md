@@ -59,7 +59,7 @@ wget https://github.com/DataTalksClub/nyc-tlc-data/releases/download/misc/taxi_z
 ```
 Data was ingested using the following files:
 - [docker-compose.yaml](./docker-compose.yaml)
-- [Dockefile](./Dockefile)
+- [Dockerfile](./Dockerfile)
 - [ingest_data.py](./ingest_data.py)
 
 The queries were run on `PgAdmin`.
