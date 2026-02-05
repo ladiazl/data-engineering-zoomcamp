@@ -1,6 +1,8 @@
 *.parquet
 *.csv
 my-creds.json
+service-account.json
+.env_encoded
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
