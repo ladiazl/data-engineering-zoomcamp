@@ -31,7 +31,7 @@ The following query was run in BigQuery:
 
 ```sql
 SELECT COUNT(*)
-FROM `PROJECT_ID.zoomcamp.yellow_tripdata` 
+FROM `kestra-gcp-486222.zoomcamp.yellow_tripdata` 
 WHERE tpep_pickup_datetime BETWEEN '2020-01-01' AND '2021-01-01';
 ```
 
