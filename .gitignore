@@ -3,6 +3,7 @@
 my-creds.json
 service-account.json
 .env_encoded
+credentials.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
